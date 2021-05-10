@@ -105,3 +105,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://festive-plankton-8dd65.netlify.app'
